@@ -13,3 +13,4 @@ src-git ifit https://github.com/kenzok8/luci-theme-ifit.git
 src-git infinityfreedom https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git
 src-git Light https://github.com/Aslin-Ameng/luci-theme-Light.git
 src-git edge https://github.com/garypang13/luci-theme-edge.git
+src-git argon https://github.com/jerrykuku/luci-theme-argon.git
